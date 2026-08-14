@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "NOTfatchuds.aternos.me:14465",
+    "ip": "NOTfatchuds.aternos.me",
     "port": 14465,
     "version": "",
     "try-creative": false
