@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "NOTfatchuds.aternos.me",
-    "port": 14465,
+    "ip": "slobtest1.aternos.me",
+    "port": 27586,
     "version": "",
     "try-creative": false
   },
@@ -31,10 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "WE ALL love suripuri",
-        "SWE ALL love clerycy",
-        "WE ALL love anny"
-        "WE ALL love cooleeq"
+        "WE love anny,suripuri,clerycy,cooleeq",
+        "follow kangzz.__",
+        "6+7=67"
       ]
     },
     "chat-log": true,
