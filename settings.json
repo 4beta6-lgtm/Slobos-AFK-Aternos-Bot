@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "cookie123bot",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "NOTfatchuds.aternos.me",
+    "port": 14465,
     "version": "",
     "try-creative": false
   },
@@ -32,7 +32,9 @@
       "repeat-delay": 120,
       "messages": [
         "WE love anny,suripuri,clerycy,cooleeq",
-        "follow kangzz.__",
+        "put the fries in the bag",
+        "i dont like femboys anymore",
+        " i can rlly make ths bot say what ever i want vro",
         "6+7=67"
       ]
     },
